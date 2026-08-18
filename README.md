@@ -10,9 +10,11 @@ Code implementation for the analyses and simulations described in our journal ar
 
 **Reference**
 
-For complete details on the research and implementation, please cite to our journal article: **Currently, the journal is under peer review. Once it is published and publicly available, we will update the DOI/link**
+For complete details on the research and implementation, please cite to our journal article:
 
-[Author Names, “Article Title,” Journal Name, Year, DOI/Link]
+[Thota, Ravi Chandra, Sarawat Murtaza Sara, Md Yusuf Sarwar Uddin, Majid Bani-Yaghoub, Gary Sutkin, and Jagannath Kasula. "Estimating individual transmission rates and basic reproduction numbers of respiratory diseases in indoor gatherings using UWB-based location data." Smart Health (2026): 100678.]
+
+[DOI:10.1016/j.smhl.2026.100678] 
 
 ## Key Features
 
